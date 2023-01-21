@@ -1,0 +1,15 @@
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\obj\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\obj\Debug\TemplateMethod.csproj.CopyComplete
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Axel Castillo\Downloads\TemplateMethod-master\TemplateMethod-master\TemplateMethod\obj\Debug\TemplateMethod.pdb
